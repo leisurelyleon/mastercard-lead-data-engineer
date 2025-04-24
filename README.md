@@ -12,7 +12,14 @@ It is structured around a mock job description and showcases a curated selection
 
 Each folder corresponds to a critical area of expertise listed in the job role:
 
-mastercard-lead-data-engineer/ ├── 01_cloudera_integration/ # HDFS & Cloudera configuration integration ├── 02_spark_processing/ # Spark batch and streaming pipelines ├── 03_programming_fundamentals/ # OOP, data structures, and algorithms ├── 04_databases/ # Relational (Postgres) and NoSQL (MongoDB, Cassandra) ├── 05_streaming_tools/ # Hive, Impala, NiFi, Kafka, Sqoop, Oozie workflows ├── 06_shell_scripting/ # Bash automation scripts for pipelines and user ops └── 07_systems_and_design/ # Linux essentials, software paradigms, system diagrams
+mastercard-lead-data-engineer/ 
+├── 01_cloudera_integration/ # HDFS & Cloudera configuration integration 
+├── 02_spark_processing/ # Spark batch and streaming pipelines 
+├── 03_programming_fundamentals/ # OOP, data structures, and algorithms 
+├── 04_databases/ # Relational (Postgres) and NoSQL (MongoDB, Cassandra) 
+├── 05_streaming_tools/ # Hive, Impala, NiFi, Kafka, Sqoop, Oozie workflows 
+├── 06_shell_scripting/ # Bash automation scripts for pipelines and user ops 
+└── 07_systems_and_design/ # Linux essentials, software paradigms, system diagrams
 
 ---
 
