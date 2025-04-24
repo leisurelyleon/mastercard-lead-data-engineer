@@ -46,7 +46,7 @@ This repository is intended **strictly for educational and demonstration purpose
 
 No proprietary code, tooling, or architecture from Mastercard or any affiliated organization is used or reproduced here.
 
-All configurations, scripts, schemas, and designs are fictional and simplified placeholders.
+All configurations, scripts, schemas, and designs are **fictional and simplified** placeholders.
 
 This repo was created to demonstrate relevant technical skills and organizational competency for potential future job roles.
 
