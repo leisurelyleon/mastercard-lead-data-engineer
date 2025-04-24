@@ -1,0 +1,15 @@
+/* File: cloudera-config.xml */
+<?xml version="1.0"?>
+<configuration>
+    <!-- Default filesystem URI -->
+    <property>
+        <name>fs.defaultFS</name>
+        <value>hdfs://cdh-master:8020</value>
+    </property>
+    <!-- User for HDFS operations -->
+    <property>
+        <name>hadoop.job.ugi</name>
+        <value>hdfs,hdfs</value>
+    </property>
+    <!-- Additional Cloudera-specific properties can be added here -->
+</configuration>
