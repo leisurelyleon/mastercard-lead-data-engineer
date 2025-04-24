@@ -28,7 +28,7 @@ mastercard-lead-data-engineer/ ├── 01_cloudera_integration/ # HDFS & Cloud
 
 ---
 
-## Getting Started
+## 📘 Getting Started
 
 To explore the code:
 
@@ -41,8 +41,8 @@ To explore the code:
 
 3. Browse each folder independently — each has self-contained examples with inline comments or README.md files when needed.
 
-## Disclaimer
-This repository is intended strictly for educational and demonstration purposes only.
+## 🚨 Disclaimer
+This repository is intended **strictly for educational and demonstration purposes only.**
 
 No proprietary code, tooling, or architecture from Mastercard or any affiliated organization is used or reproduced here.
 
@@ -50,9 +50,9 @@ All configurations, scripts, schemas, and designs are fictional and simplified p
 
 This repo was created to demonstrate relevant technical skills and organizational competency for potential future job roles.
 
-**Do not interpret any files in this repository as being sourced from Mastercard or used in production environments.**
+⚠️ **Do not interpret any files in this repository as being sourced from Mastercard or used in production environments.**
 
-## License
+## 🏁 License
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
 ---
