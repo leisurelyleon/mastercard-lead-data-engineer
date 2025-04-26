@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2025-04-23T00:00:00.000Z" agent="5.0 (Macintosh)">
+  <diagram name="System Architecture">
+    <!-- Placeholder for draw.io system architecture diagram -->
+    <!--
+      - Data Ingestion (NiFi, Kafka)
+      - Storage Layer (HDFS, Cassandra)
+      - Processing Layer (Spark Batch & Streaming)
+      - API Layer (Microservices)
+      - Monitoring & Logging (Prometheus, ELK)
+    -->
+  </diagram>
+</mxfile>
