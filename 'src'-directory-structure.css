@@ -1,0 +1,43 @@
+mastercard-lead-data-engineer/
+├── 01_cloudera_integration/
+│   ├── connectToCDH.java
+│   ├── cloudera-config.xml
+│   └── README.md
+│
+├── 02_spark_processing/
+│   ├── WordCount.scala
+│   ├── SparkETLJob.py
+│   └── StructuredStreamingJob.java
+│
+├── 03_programming_fundamentals/
+│   ├── OOD_Patterns.md
+│   ├── DataStructures.java
+│   └── Algorithms.scala
+│
+├── 04_databases/
+│   ├── relational/
+│   │   ├── postgres_schema.sql
+│   │   └── JdbcConnector.java
+│   └── nosql/
+│       ├── mongo_example.py
+│       └── cassandra_model.cql
+│
+├── 05_streaming_tools/
+│   ├── hive_queries.hql
+│   ├── impala_sample.sql
+│   ├── oozie_workflow.xml
+│   ├── nifi_flow.xml
+│   ├── kafka_producer.java
+│   └── sqoop_export.sh
+│
+├── 06_shell_scripting/
+│   ├── data_pipeline.sh
+│   └── user_management.sh
+│
+└── 07_systems_and_design/
+    ├── linux_commands.md
+    ├── system_architecture.drawio
+    └── software_paradigms.md
+
+/* (Optional “dummy” selectors so this loads without error) */
+.tree, .folder, .file { display: none; } 
