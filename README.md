@@ -63,5 +63,3 @@ This repo was created to demonstrate relevant technical skills and organizationa
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-
-Would you like me to generate the file and push it as a downloadable `.md` file or ready-to-copy text block for GitHub use?
