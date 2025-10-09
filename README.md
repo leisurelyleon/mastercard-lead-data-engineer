@@ -61,5 +61,3 @@ This repo was created to demonstrate relevant technical skills and organizationa
 
 ## 🏁 License
 This repository is licensed under the MIT License. See the LICENSE file for details.
-
----
